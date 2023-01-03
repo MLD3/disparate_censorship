@@ -1,0 +1,7 @@
+numpy
+pandas
+psycopg2
+scikit-learn
+statsmodels
+tqdm
+matplotlib<=3.4.3
